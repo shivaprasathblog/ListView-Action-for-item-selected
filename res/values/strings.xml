@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ListView-Action 4 item selected</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_second">ListView -Action</string>
+    <string name="title_activity_third">ListView -Action</string>
+    <string name="title_activity_desktop">ListView -Action</string>
+    <string name="title_activity_keyboard">ListView -Action</string>
+    <string name="title_activity_mouse">ListView -Action</string>
+    <string name="title_activity_harddisk">ListView -Action</string>
+    <string name="title_activity_ram">ListView -Action</string>
+    <string name="title_activity_printer">ListView -Action</string>
+    <string name="title_activity_tablet">ListView -Action</string>
+
+</resources>
